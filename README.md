@@ -12,7 +12,7 @@ I develop native Android apps in (Java/Kotlin) as well as cross-platform apps in
 I'm deeply motivated by the fact that software brings an infinites opportunities to impact millions of people with a few key strokes. Making life easier by making great software solutions is what I thrive for. Software development is a form of Art, and I'm following this artistic journey to bring a creative, functional, and clean software to life.
 
 ## Current Goal
-I'm trying to land my first Dev job :grinning:
+Improving UX skills & master design patterns :grinning:
 
 ## Currently Learning
 * Flutter
