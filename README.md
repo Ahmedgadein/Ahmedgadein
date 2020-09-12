@@ -1,5 +1,5 @@
 # @Gadein_jr
-Hi, I'm Ahmed Gadein a 21 y.o Sudanese **Android Developer** from Khartoum. Been in love with coding since my first "Hello world" :heart:.
+Hi, I'm Ahmed Gadein a 21 y.o Sudanese **Android/Mobile Developer** from Khartoum. Been in love with coding since my first "Hello world" :heart:.
 I develop native Android apps in (Java/Kotlin) as well as cross-platform apps in Flutter.
 
 
@@ -22,7 +22,8 @@ Improving UX skills & mastering design patterns :grinning:
 
 ### Social
 * Follow me on [Twitter](https://twitter.com/Gadein_II)
-* I'm starting to blog on [Medium](https://medium.com/@ahmedgadein)
+* I blog about Tech on [Hashnode](https://ahmedgadein.hashnode.dev)
+* Check me out at [Medium](https://medium.com/@ahmedgadein) too 
 
 
 
